@@ -1,5 +1,6 @@
 .env/
 .vscode/
 trash/
-/round2
-/dataset
+round2/
+dataset/
+__pycache__/
