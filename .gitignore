@@ -1,3 +1,5 @@
 .env/
 .vscode/
 trash/
+/round2
+/dataset
